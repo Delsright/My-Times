@@ -1,5 +1,7 @@
 #header {
-font: Verdana 14px bold;
+font-family: Verdana;
+font-size: 14px;
+font-weight: bold;
 display: flex;
 align-items: center;
 width: 100%;
