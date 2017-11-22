@@ -1,5 +1,10 @@
-header {
+#header {
 font: Verdana 14px bold;
-
-
-  }
+display: flex;
+align-items: center;
+width: 100%;
+height: 75px;
+border-bottom: 1px solid black;
+background-color: white;
+margin-top: -8px;
+}
