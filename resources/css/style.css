@@ -44,7 +44,6 @@ padding-right: 25px;
 .container {
   display: flex;
   justify-content: space-between;
-  width: 1230px;
   margin-bottom: 75px;
   padding-top: 110px;
 }
