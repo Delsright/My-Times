@@ -14,11 +14,11 @@ position: fixed;
 z-index: 1;
 }
 
-#headernaviguation{
+#headernaviguation {
 padding-right: 25px;
 }
 
-#headernaviguation span{
+#headernaviguation span {
   display: inline-flex;
   padding: 5px;
 }
@@ -60,14 +60,14 @@ padding-right: 25px;
   font-size: 17px;
   color: black;
 
-  .img-content {
+ .img-content {
     display: flex;
     justify-content: center;
     align-content: center;
     height: 300px;
     margin-top: 10px;
  }
-.img-content span{
+.img-content span {
   text-align: center;
   font-family: Georgia, serif;
   font-weight: bold;
@@ -79,6 +79,16 @@ padding-right: 25px;
   width: 630px;
 }
 
-.mainstory {
+.main-story {
   background-image: url(../images/img-story-main.png);
+}
+
+.main-story span {
+  text-align: left;
+  font-size: 40px;
+}
+
+.stories {
+  display: inline-flex;
+  justify-content: space-between;
 }
