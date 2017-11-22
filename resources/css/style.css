@@ -46,9 +46,9 @@ padding-right: 40px;
 /* Container */
 .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin-bottom: 75px;
-  padding-top: 110px;
+  padding-top: 25px;
 }
 
 .column {
