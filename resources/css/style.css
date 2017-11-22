@@ -38,7 +38,7 @@ padding-right: 25px;
 
 #logo span {
   color: MediumAquamarine;
-  padding-left: 15px;
+  padding-left: 10px;
 }
 /* Container */
 .container {
@@ -58,7 +58,7 @@ padding-right: 25px;
   font-family: Georgia, serif;
   font-size: 17px;
   color: black;
-
+  }
  .img-content {
     display: flex;
     justify-content: center;
