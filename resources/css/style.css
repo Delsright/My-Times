@@ -16,7 +16,6 @@ z-index: 1;
 }
 
 .headernaviguation {
-padding-right: 25px;
 display: block;
 }
 
@@ -25,6 +24,7 @@ display: block;
   align-items: center;
   flex-grow: 1;
   border: 1px solid black;
+  padding-left: 30px;
 }
 
 .menu {
