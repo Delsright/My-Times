@@ -24,8 +24,7 @@ display: block;
   align-items: center;
   flex-grow: 1;
   border: 1px solid black;
-  padding-left: 30px;
-}
+  }
 
 .menu {
 padding-right: 40px;
