@@ -15,13 +15,9 @@ z-index: 1;
 
 }
 
-#headernaviguation {
+.headernaviguation {
 padding-right: 25px;
-}
-
-#headernaviguation span {
-  display: inline-flex;
-  padding: 5px;
+display: block;
 }
 
 #logo {
