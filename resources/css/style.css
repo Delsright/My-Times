@@ -79,7 +79,7 @@ padding-right: 40px;
 }
 
 .main-story {
-  background-image: url(resources\images\img-story-main.png);
+  background-image: url(../resources\images\img-story-main.png);
 }
 
 .main-story span {
@@ -93,11 +93,11 @@ padding-right: 40px;
 }
 
 .story-2 {
-  background-image: url(resources\images\img-story-2.png);
+  background-image: url(../resources\images\img-story-2.png);
   background-repeat: no-repeat;
 }
 .story-3{
-  background-image: url(resources\images\img-story-3.png);
+  background-image: url(../resources\images\img-story-3.png);
   background-repeat: no-repeat;
 }
 /*2nd Column*/
@@ -106,7 +106,7 @@ padding-right: 40px;
 }
 
 .story-1{
-  background-image: url(resources\images\img-story-1.png);
+  background-image: url(../resources\images\img-story-1.png);
   background-repeat: no-repeat;
 }
 /*3rd column*/
